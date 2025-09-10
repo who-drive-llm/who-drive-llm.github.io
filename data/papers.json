@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents",
+    "year": 2020,
+    "url": "https://dl.acm.org/doi/10.1145/3313831.3376190"
+  },
+  {
+    "title": "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491101.3519640"
+  },
+  {
+    "title": "Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581074"
+  }
+]
