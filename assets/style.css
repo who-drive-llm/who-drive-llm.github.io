@@ -16,6 +16,20 @@ h3 { margin-top: 20px; font-size: 18px; }
 figure { margin: 16px 0; }
 figure img { width: 100%; border-radius: 12px; border: 1px solid #e5e7eb; }
 figcaption { font-size: 14px; color: #6b7280; }
+#paperTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 8px;
+  font-size: 15px;
+}
+#paperTable th, #paperTable td {
+  border: 1px solid #e5e7eb;
+  padding: 8px 10px;
+}
+#paperTable th {
+  background: #f8fafc;
+  text-align: left;
+}
 .paper-list { display: grid; grid-template-columns: 1fr; gap: 10px; }
 .paper-item { padding: 12px 14px; border: 1px solid #e5e7eb; border-radius: 12px; background: #fafafa; }
 .paper-item a { text-decoration: none; color: #2563eb; }
