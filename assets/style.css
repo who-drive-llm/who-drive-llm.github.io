@@ -13,26 +13,42 @@ h2 { margin-top: 36px; font-size: 22px; }
 h3 { margin-top: 20px; font-size: 18px; }
 .cta .btn { display: inline-block; padding: 10px 14px; background: #2563eb; color: #fff; border-radius: 8px; text-decoration: none; }
 .cta .btn:hover { background: #1d4ed8; }
-figure { margin: 16px 0; }
-figure img { width: 100%; border-radius: 12px; border: 1px solid #e5e7eb; }
-figcaption { font-size: 14px; color: #6b7280; }
-#paperTable {
+.table-scroll { overflow-x: auto; }
+
+.tbl {
   width: 100%;
-  border-collapse: collapse;
-  margin-top: 8px;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
   font-size: 15px;
 }
-#paperTable th, #paperTable td {
-  border: 1px solid #e5e7eb;
-  padding: 8px 10px;
+.tbl th, .tbl td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eef2f7;
 }
-#paperTable th {
+.tbl thead th {
   background: #f8fafc;
-  text-align: left;
+  font-weight: 600;
+  color: #1f2937;
 }
-.paper-list { display: grid; grid-template-columns: 1fr; gap: 10px; }
-.paper-item { padding: 12px 14px; border: 1px solid #e5e7eb; border-radius: 12px; background: #fafafa; }
-.paper-item a { text-decoration: none; color: #2563eb; }
-.paper-item .year { color: #64748b; font-variant-numeric: tabular-nums; }
+.tbl tr:nth-child(even) td { background: #fbfdff; }
+.tbl tbody tr:hover td { background: #f1f5f9; }
+
+.tbl th:first-child, .tbl td:first-child { border-top-left-radius: 12px; }
+.tbl th:last-child, .tbl td:last-child { border-top-right-radius: 12px; }
+.tbl tbody tr:last-child td:first-child { border-bottom-left-radius: 12px; }
+.tbl tbody tr:last-child td:last-child { border-bottom-right-radius: 12px; }
+
+/* 중앙정렬 컬럼 */
+.tbl th.num, .tbl td.num,
+.tbl th.yr,  .tbl td.yr { text-align: center; width: 90px; }
+
+/* 링크 스타일 */
+.tbl td a { text-decoration: none; color: #2563eb; }
+.tbl td a:hover { text-decoration: underline; }
+
 .site-footer { margin-top: 40px; padding: 20px 0; background: #f8fafc; border-top: 1px solid #e5e7eb; font-size: 14px; }
 .site-footer a { color: #2563eb; text-decoration: none; }

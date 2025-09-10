@@ -1,40 +1,37 @@
-(function() {
+// js/render.js
+(function () {
   fetch("data/papers.json")
     .then(r => r.json())
     .then(items => {
-      // 1) 연도 오름차순 정렬
+      // 연도 오름차순
       const sorted = items.slice().sort((a, b) => (a.year || 0) - (b.year || 0));
 
-      // 2) 카드형 리스트 렌더
+      // 기존 카드형 리스트 제거(있으면)
       const list = document.getElementById("paperList");
-      list.innerHTML = "";
-      sorted.forEach(p => {
-        const el = document.createElement("div");
-        el.className = "paper-item";
-        el.innerHTML = `<a href="${p.url}" target="_blank" rel="noopener">${p.title}</a> <span class="year">(${p.year || "n/a"})</span>`;
-        list.appendChild(el);
-      });
+      if (list) list.remove();
 
-      // 3) 표 렌더 (number / title / year)
+      // 표 렌더
+      const wrap = document.getElementById("paperTableWrap");
       const table = document.getElementById("paperTable");
+      if (!wrap || !table) return;
+
       const thead = `
         <thead>
           <tr>
-            <th style="width:80px;text-align:right;">number</th>
+            <th class="num">number</th>
             <th>title</th>
-            <th style="width:100px;">year</th>
+            <th class="yr">year</th>
           </tr>
         </thead>`;
       const rows = sorted.map((p, i) => `
         <tr>
-          <td style="text-align:right;">${i + 1}</td>
+          <td class="num">${i + 1}</td>
           <td><a href="${p.url}" target="_blank" rel="noopener">${p.title}</a></td>
-          <td>${p.year || ""}</td>
+          <td class="yr">${p.year || ""}</td>
         </tr>`).join("");
       table.innerHTML = thead + `<tbody>${rows}</tbody>`;
     })
     .catch(err => {
       console.error(err);
-      document.getElementById("paperList").textContent = "Failed to load papers.json.";
     });
 })();
