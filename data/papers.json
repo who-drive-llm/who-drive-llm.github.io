@@ -1,17 +1,2207 @@
 [
   {
+    "title": "Mirror Ritual: An Affective Interface for Emotional Self-Reflection",
+    "year": 2020,
+    "url": "https://dl.acm.org/doi/10.1145/3313831.3376625"
+  },
+  {
     "title": "Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents",
     "year": 2020,
-    "url": "https://dl.acm.org/doi/10.1145/3313831.3376190"
+    "url": "https://dl.acm.org/doi/10.1145/3313831.3376318"
+  },
+  {
+    "title": "Directed Diversity: Leveraging Language Embedding Distances for Collective Creativity in Crowd Ideation",
+    "year": 2021,
+    "url": "https://dl.acm.org/doi/10.1145/3411764.3445782"
+  },
+  {
+    "title": "The Impact of Multiple Parallel Phrase Suggestions on Email Input and Composition Behaviour of Native and Non-Native English Writers",
+    "year": 2021,
+    "url": "https://dl.acm.org/doi/10.1145/3411764.3445372"
+  },
+  {
+    "title": "AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3517582"
   },
   {
     "title": "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities",
     "year": 2022,
-    "url": "https://dl.acm.org/doi/10.1145/3491101.3519640"
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3502030"
+  },
+  {
+    "title": "Discovering the Syntax and Strategies of Natural Language Programming with Generative Language Models",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3501870"
+  },
+  {
+    "title": "Pretty Princess vs. Successful Leader: Gender Roles in Greeting Card Messages",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3502114"
+  },
+  {
+    "title": "Stylette: Styling the Web with Natural Language",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3501931"
+  },
+  {
+    "title": "TaleBrush: Sketching Stories with Generative Pretrained Language Models",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3501819"
+  },
+  {
+    "title": "TapType: Ten-finger text entry on everyday surfaces via Bayesian inference",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3501878"
+  },
+  {
+    "title": "TypeAnywhere: A QWERTY-Based Text Entry Solution for Ubiquitous Computing",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3517686"
+  },
+  {
+    "title": "Will AI Console Me when I Lose my Pet? Understanding Perceptions of AI-Mediated Email Writing",
+    "year": 2022,
+    "url": "https://dl.acm.org/doi/10.1145/3491102.3517731"
+  },
+  {
+    "title": "A Mixed-Methods Approach to Understanding User Trust after Voice Assistant Failures",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581152"
+  },
+  {
+    "title": "AngleKindling: Supporting Journalistic Angle Ideation with Large Language Models",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580907"
+  },
+  {
+    "title": "Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580969"
+  },
+  {
+    "title": "Co-Writing Screenplays and Theatre Scripts with Language Models: Evaluation by Industry Professionals",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581225"
+  },
+  {
+    "title": "Co-Writing with Opinionated Language Models Affects Users’ Views",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581196"
+  },
+  {
+    "title": "Comparing Sentence-Level Suggestions to Message-Level Suggestions in AI-Mediated Communication",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581351"
+  },
+  {
+    "title": "Designerly Understanding: Information Needs for Model Transparency to Support Design Ideation for AI-Powered User Experience",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580652"
+  },
+  {
+    "title": "Do You Mind? User Perceptions of Machine Consciousness",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581296"
+  },
+  {
+    "title": "Don’t Just Tell Me, Ask Me: AI Systems that Intelligently Frame Explanations as Questions Improve Human Logical Discernment Accuracy over Causal AI explanations",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580672"
+  },
+  {
+    "title": "Embodying the Algorithm: Exploring Relationships with Large Language Models Through Artistic Performance",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580885"
+  },
+  {
+    "title": "Enabling Conversational Interaction with Mobile UI using Large Language Models",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580895"
+  },
+  {
+    "title": "Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580688"
+  },
+  {
+    "title": "Harnessing Biomedical Literature to Calibrate Clinicians’ Trust in AI Decision Support Systems",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581393"
+  },
+  {
+    "title": "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580834"
+  },
+  {
+    "title": "Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581441"
+  },
+  {
+    "title": "PopBlends: Strategies for Conceptual Blending with Large Language Models",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580948"
+  },
+  {
+    "title": "RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581402"
+  },
+  {
+    "title": "Social Dynamics of AI Support in Creative Writing",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580782"
+  },
+  {
+    "title": "Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580919"
+  },
+  {
+    "title": "Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581318"
+  },
+  {
+    "title": "Understanding the Benefits and Challenges of Deploying Conversational AI Leveraging Large Language Models for Public Health Intervention",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581503"
+  },
+  {
+    "title": "Visual Captions: Augmenting Verbal Communication with On-the-fly Visuals",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581566"
   },
   {
     "title": "Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts",
     "year": 2023,
-    "url": "https://dl.acm.org/doi/10.1145/3544548.3581074"
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581388"
+  },
+  {
+    "title": "“The less I type, the better”: How AI Language Models can Enhance or Impede Communication for AAC Users",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3581560"
+  },
+  {
+    "title": "“What It Wants Me To Say”: Bridging the Abstraction Gap Between End-User Programmers and Code-Generating Large Language Models",
+    "year": 2023,
+    "url": "https://dl.acm.org/doi/10.1145/3544548.3580817"
+  },
+  {
+    "title": "\"I want it to talk like Darth Vader\": Helping Children Construct Creative Self-Efficacy with Generative AI",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642492"
+  },
+  {
+    "title": "\"If the Machine Is As Good As Me, Then What Use Am I?\" ? How the Use of ChatGPT Changes Young Professionals' Perception of Productivity and Accomplishment",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641964"
+  },
+  {
+    "title": "A Canary in the AI Coal Mine: American Jews May Be Disproportionately Harmed by Intellectual Property Dispossession in Large Language Model Training",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642749"
+  },
+  {
+    "title": "A Design Space for Intelligent and Interactive Writing Assistants",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642697"
+  },
+  {
+    "title": "A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642379"
+  },
+  {
+    "title": "ABScribe: Rapid Exploration & Organization of Multiple Writing Variations in Human-AI Co-Writing Tasks using Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641899"
+  },
+  {
+    "title": "AI-Assisted Causal Pathway Diagram for Human-Centered Design",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642179"
+  },
+  {
+    "title": "AI-Augmented Brainwriting: Investigating the use of LLMs in group ideation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642414"
+  },
+  {
+    "title": "AI-Driven Mediation Strategies for Audience Depolarisation in Online Debates",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642322"
+  },
+  {
+    "title": "AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642752"
+  },
+  {
+    "title": "AXNav: Replaying Accessibility Tests from Natural Language",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642777"
+  },
+  {
+    "title": "An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642363"
+  },
+  {
+    "title": "Art or Artifice? Large Language Models and the False Promise of Creativity",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642731"
+  },
+  {
+    "title": "Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642529"
+  },
+  {
+    "title": "Automatic Macro Mining from Interaction Traces at Scale",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642074"
+  },
+  {
+    "title": "BIDTrainer: An LLMs-driven Education Tool for Enhancing the Understanding and Reasoning in Bio-inspired Design",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642887"
+  },
+  {
+    "title": "Beyond Numbers: Creating Analogies to Enhance Data Comprehension and Communication with Generative AI",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642480"
+  },
+  {
+    "title": "Beyond the Waiting Room: Patient's Perspectives on the Conversational Nuances of Pre-Consultation Chatbots",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641913"
+  },
+  {
+    "title": "Bridging the Gulf of Envisioning: Cognitive Challenges in Prompt Based Interactions with LLMs",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642754"
+  },
+  {
+    "title": "C2Ideas: Supporting Creative Interior Color Design Ideation with a Large Language Model",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642224"
+  },
+  {
+    "title": "COMPA: Using Conversation Context to Achieve Common Ground in AAC",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642762"
+  },
+  {
+    "title": "Care-Based Eco-Feedback Augmented with Generative AI: Fostering Pro-Environmental Behavior through Emotional Attachment",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642296"
+  },
+  {
+    "title": "ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642152"
+  },
+  {
+    "title": "ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642016"
+  },
+  {
+    "title": "CharacterMeet: Supporting Creative Writers' Entire Story Character Construction Processes Through Conversation with LLM-Powered Chatbot Avatars",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642105"
+  },
+  {
+    "title": "Charting the Future of AI in Project-Based Learning: A Co-Design Exploration with Students",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642807"
+  },
+  {
+    "title": "ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642229"
+  },
+  {
+    "title": "ClassMeta: Designing Interactive Virtual Classmate to Promote VR Classroom Participation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642947"
+  },
+  {
+    "title": "Co-Designing QuickPic: Automated Topic-Specific Communication Boards from Photographs for AAC-Based Language Instruction",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642080"
+  },
+  {
+    "title": "CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642212"
+  },
+  {
+    "title": "CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642773"
+  },
+  {
+    "title": "CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualitative Analysis with Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642002"
+  },
+  {
+    "title": "Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642830"
+  },
+  {
+    "title": "ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642129"
+  },
+  {
+    "title": "Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Conversational Style Make A Difference",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642513"
+  },
+  {
+    "title": "Deconstructing the Veneer of Simplicity: Co-Designing Introductory Generative AI Workshops with Local Entrepreneurs",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642191"
+  },
+  {
+    "title": "Design Principles for Generative AI Applications",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642466"
+  },
+  {
+    "title": "Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642713"
+  },
+  {
+    "title": "Designing Scaffolding Strategies for Conversational Agents in Dialog Task of Neurocognitive Disorders Screening",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642960"
+  },
+  {
+    "title": "Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642036"
+  },
+  {
+    "title": "DiaryHelper: Exploring the Use of an Automatic Contextual Information Recording Agent for Elicitation Diary Study",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642853"
+  },
+  {
+    "title": "DiaryMate: Understanding User Perceptions and Experience in Human-AI Collaboration for Personal Journaling",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642693"
+  },
+  {
+    "title": "DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642462"
+  },
+  {
+    "title": "EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Children with High-Function Autism",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642899"
+  },
+  {
+    "title": "Empowering Calibrated (Dis-)Trust in Conversational Agents: A User Study on the Persuasive Power of Limitation Disclaimers vs. Authoritative Style",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642122"
+  },
+  {
+    "title": "Enhancing UX Evaluation Through Collaboration with Conversational AI Assistants: Effects of Proactive Dialogue and Timing",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642168"
+  },
+  {
+    "title": "Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642850"
+  },
+  {
+    "title": "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642216"
+  },
+  {
+    "title": "Evaluating Large Language Models on Academic Literature Understanding and Review: An Empirical Study among Early-stage Scholars",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641917"
+  },
+  {
+    "title": "Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642482"
+  },
+  {
+    "title": "Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older Adults",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642800"
+  },
+  {
+    "title": "Facilitating Self-Guided Mental Health Interventions Through Human-Language Model Interaction: A Case Study of Cognitive Restructuring",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642761"
+  },
+  {
+    "title": "Farsight: Fostering Responsible AI Awareness During AI Application Prototyping",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642335"
+  },
+  {
+    "title": "From Paper to Card: Transforming Design Implications with Generative AI",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642266"
+  },
+  {
+    "title": "From Text to Self: Users’ Perception of AIMC Tools on Interpersonal Communication and Self",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641955"
+  },
+  {
+    "title": "GazePointAR: A Context-Aware Multimodal Voice Assistant for Pronoun Disambiguation in Wearable Augmented Reality",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642230"
+  },
+  {
+    "title": "Generating Automatic Feedback on UI Mockups with Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642782"
+  },
+  {
+    "title": "Generative AI in the Wild: Prospects, Challenges, and Strategies",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642160"
+  },
+  {
+    "title": "Generative Echo Chamber? Effect of LLM-Powered Search Systems on Diverse Information Seeking",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642459"
+  },
+  {
+    "title": "HILL: A Hallucination Identifier for Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642428"
+  },
+  {
+    "title": "Help Me Reflect: Leveraging Self-Reflection Interface Nudges to Enhance Deliberativeness on Online Deliberation Platforms",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642530"
+  },
+  {
+    "title": "How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642698"
+  },
+  {
+    "title": "How Beginning Programmers and Code LLMs (Mis)read Each Other",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642706"
+  },
+  {
+    "title": "How Do Analysts Understand and Verify AI-Assisted Data Analyses?",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642497"
+  },
+  {
+    "title": "How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641891"
+  },
+  {
+    "title": "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642700"
+  },
+  {
+    "title": "Human I/O: Towards a Unified Approach to Detecting Situational Impairments",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642065"
+  },
+  {
+    "title": "Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial Intelligence Clinical Decision Support System",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642024"
+  },
+  {
+    "title": "Human-LLM Collaborative Annotation Through Effective Verification of LLM Labels",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641960"
+  },
+  {
+    "title": "If in a Crowdsourced Data Annotation Pipeline, a GPT-4",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642834"
+  },
+  {
+    "title": "Integrating Expertise in LLMs: Crafting a Customized Nutrition Assistant with Refined Template Instructions",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641924"
+  },
+  {
+    "title": "Intelligent Support Engages Writers Through Relevant Cognitive Processes",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642549"
+  },
+  {
+    "title": "Is Resistance Futile?: Early Career Game Developers, Generative AI, and Ethical Skepticism",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641889"
+  },
+  {
+    "title": "Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642596"
+  },
+  {
+    "title": "Ivie: Lightweight Anchored Explanations of Just-Generated Code",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642239"
+  },
+  {
+    "title": "Jigsaw: Supporting Designers to Prototype Multimodal Applications by Chaining AI Foundation Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641920"
+  },
+  {
+    "title": "Know Your Audience: The benefits and pitfalls of generating plain language summaries beyond the \"general\" audience",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642289"
+  },
+  {
+    "title": "LLMR: Real-time Prompting of Interactive Worlds using Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642579"
+  },
+  {
+    "title": "Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642377"
+  },
+  {
+    "title": "Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642117"
+  },
+  {
+    "title": "Lies, Deceit, and Hallucinations: Player Perception and Expectations Regarding Trust and Deception in Games",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642253"
+  },
+  {
+    "title": "Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642400"
+  },
+  {
+    "title": "MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642350"
+  },
+  {
+    "title": "Marco: Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641969"
+  },
+  {
+    "title": "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642647"
+  },
+  {
+    "title": "Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642450"
+  },
+  {
+    "title": "Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642410"
+  },
+  {
+    "title": "MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642790"
+  },
+  {
+    "title": "MindTalker: Navigating the Complexities of AI-Enhanced Social Engagement for People with Early-Stage Dementia",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642538"
+  },
+  {
+    "title": "MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642937"
+  },
+  {
+    "title": "More than Model Documentation: Uncovering Teachers' Bespoke Information Needs for Informed Classroom Integration of ChatGPT",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642592"
+  },
+  {
+    "title": "Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642013"
+  },
+  {
+    "title": "Narrating Fitness: Leveraging Large Language Models for Reflective Fitness Tracker Data Interpretation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642032"
+  },
+  {
+    "title": "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642943"
+  },
+  {
+    "title": "OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642068"
+  },
+  {
+    "title": "Open Sesame? Open Salami! Personalizing Vocabulary Assessment-Intervention for Children via Pervasive Profiling and Bespoke Storybook Generation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642580"
+  },
+  {
+    "title": "PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642320"
+  },
+  {
+    "title": "PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642196"
+  },
+  {
+    "title": "PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642824"
+  },
+  {
+    "title": "PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642803"
+  },
+  {
+    "title": "Prompting for Discovery: Flexible Sense-Making for AI Art-Making with Dreamsheets",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642858"
+  },
+  {
+    "title": "Putting Things into Context: Generative AI-Enabled Context Personalization for Vocabulary Learning Improves Learning Motivation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642393"
+  },
+  {
+    "title": "RELIC: Investigating Large Language Model Responses using Self-Consistency",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641904"
+  },
+  {
+    "title": "Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642217"
+  },
+  {
+    "title": "ReactGenie: A Development Framework for Complex Multimodal Interactions Using Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642517"
+  },
+  {
+    "title": "Reducing the Search Space on demand helps Older Adults find Mobile UI Features quickly, on par with Younger Adults",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642796"
+  },
+  {
+    "title": "ReelFramer: Human-AI Co-Creation for News-to-Video Translation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642868"
+  },
+  {
+    "title": "Rehearsal: Simulating Conflict to Teach Conflict Resolution",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642159"
+  },
+  {
+    "title": "Scientific and Fantastical: Creating Immersive, Culturally Relevant Learning Experiences with Augmented Reality and Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642041"
+  },
+  {
+    "title": "See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst Filter Bubbles",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642545"
+  },
+  {
+    "title": "Selenite: Scaffolding Online Sensemaking with Comprehensive Overviews Elicited from Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642149"
+  },
+  {
+    "title": "Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642134"
+  },
+  {
+    "title": "Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642303"
+  },
+  {
+    "title": "SimUser: Generating Usability Feedback by Simulating Various Users Interacting with Mobile Applications",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642481"
+  },
+  {
+    "title": "StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642479"
+  },
+  {
+    "title": "Supporting Sensemaking of Large Language Model Outputs at Scale",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642139"
+  },
+  {
+    "title": "Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642349"
+  },
+  {
+    "title": "Teachers, Parents, and Students' perspectives on Integrating Generative AI into Elementary Literacy Education",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642438"
+  },
+  {
+    "title": "Testing, Socializing, Exploring: Characterizing Middle Schoolers’ Approaches to and Conceptions of ChatGPT",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642332"
+  },
+  {
+    "title": "The HaLLMark Effect: Supporting Provenance and Transparent Use of Large Language Models in Writing with Interactive Visualization",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641895"
+  },
+  {
+    "title": "The Illusion of Artificial Inclusion",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642703"
+  },
+  {
+    "title": "The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642336"
+  },
+  {
+    "title": "The Metacognitive Demands and Opportunities of Generative AI",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642902"
+  },
+  {
+    "title": "The Promise and Peril of ChatGPT in Higher Education: Opportunities, Challenges, and Design Implications",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642785"
+  },
+  {
+    "title": "The Role of AI in Peer Support for Young People: A Study of Preferences for Human- and AI-Generated Responses",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642574"
+  },
+  {
+    "title": "The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642650"
+  },
+  {
+    "title": "The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642625"
+  },
+  {
+    "title": "Think Fast, Think Slow, Think Critical: Designing an Automated Propaganda Detection Tool",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642805"
+  },
+  {
+    "title": "Towards AI-Driven Healthcare: Systematic Optimization, Linguistic Analysis, and Clinicians’ Evaluation of Large Language Models for Smoking Cessation Interventions",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641965"
+  },
+  {
+    "title": "Towards Building Condition-Based Cross-Modality Intention-Aware Human-AI Cooperation under VR Environment",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642360"
+  },
+  {
+    "title": "Towards Designing a Question-Answering Chatbot for Online News: Understanding Questions and Perspectives",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642007"
+  },
+  {
+    "title": "Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642939"
+  },
+  {
+    "title": "Under the (neighbor)hood: Hyperlocal Surveillance on Nextdoor",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641967"
+  },
+  {
+    "title": "Understanding Underground Incentivized Review Services",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642342"
+  },
+  {
+    "title": "Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642420"
+  },
+  {
+    "title": "Understanding the Role of Large Language Models in Personalizing and Scaffolding Strategies to Combat Academic Procrastination",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642081"
+  },
+  {
+    "title": "Unlock Life with a Chat(GPT): Integrating Conversational AI with Large Language Models into Everyday Lives of Autistic Individuals",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641989"
+  },
+  {
+    "title": "Unraveling the Dilemma of AI Errors: Exploring the Effectiveness of Human and Machine Explanations for Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642934"
+  },
+  {
+    "title": "VAL: Interactive Task Learning with GPT Dialog Parsing",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3641915"
+  },
+  {
+    "title": "VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642867"
+  },
+  {
+    "title": "VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642235"
+  },
+  {
+    "title": "Writer-Defined AI Personas for On-Demand Feedback Generation",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642406"
+  },
+  {
+    "title": "“As an AI language model, I cannot”: Investigating LLM Denials of User Requests",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642135"
+  },
+  {
+    "title": "“It's a Fair Game”, or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642385"
+  },
+  {
+    "title": "“It’s the only thing I can trust”: Envisioning Large Language Model Use by Autistic Workers for Communication Assistance",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642894"
+  },
+  {
+    "title": "CloChat: Understanding How People Customize, Interact, and Experience Personas in Large Language Models",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642472"
+  },
+  {
+    "title": "ARTiST: Automated Text Simplification for Task Guidance in Augmented Reality",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/10.1145/3613904.3642772"
+  },
+  {
+    "title": "\"AI Afterlife\" as Digital Legacy: Perceptions, Expectations, and Concerns",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713933"
+  },
+  {
+    "title": "\"As an Autistic Person Myself:\" The Bias Paradox Around Autism in LLMs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713420"
+  },
+  {
+    "title": "\"Create a Fear of Missing Out\" - ChatGPT Implements Unsolicited Deceptive Designs in Generated Websites Without Warning",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713083"
+  },
+  {
+    "title": "\"Don't Forget the Teachers\": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713210"
+  },
+  {
+    "title": "\"Here the GPT made a choice, and every choice can be biased\": How Students Critically Engage with LLMs through End-User Auditing Activity",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713714"
+  },
+  {
+    "title": "\"I Don't Know Why I Should Use This App\": Holistic Analysis on User Engagement Challenges in Mobile Mental Health",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713732"
+  },
+  {
+    "title": "\"I Need Your Help!\" : Facilitating Psychological Communication Between Left-Behind Children and Their Parents with an AI-Powered Sandbox",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713660"
+  },
+  {
+    "title": "\"Kya family planning after marriage hoti hai?\": Integrating Cultural Sensitivity in an LLM Chatbot for Reproductive Health",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713362"
+  },
+  {
+    "title": "\"Ronaldo's a poser!\": How the Use of Generative AI Shapes Debates in Online Forums",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713829"
+  },
+  {
+    "title": "A Comparative Analysis of Information Gathering by Chatbots, Questionnaires, and Humans in Clinical Pre-Consultation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713613"
+  },
+  {
+    "title": "A Matter of Perspective(s): Contrasting Human and LLM Argumentation in Subjective Decision-Making on Subtle Sexism",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713248"
+  },
+  {
+    "title": "A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714038"
+  },
+  {
+    "title": "AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713792"
+  },
+  {
+    "title": "ACKnowledge: A Computational Framework for Human Compatible Affordance-based Interaction Planning in Real-world Contexts",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713791"
+  },
+  {
+    "title": "AI Rivalry as a Craft: How Resisting and Embracing Generative AI Are Reshaping the Writing Profession",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714035"
+  },
+  {
+    "title": "AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713292"
+  },
+  {
+    "title": "AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713564"
+  },
+  {
+    "title": "AI on My Shoulder: Supporting Emotional Labor in Front-Office Roles with an LLM-based Empathetic Coworker",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713705"
+  },
+  {
+    "title": "AI, Help Me Think?but for Myself: Assisting People in Complex Decision-Making by Providing Different Kinds of Cognitive Support",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713295"
+  },
+  {
+    "title": "AI-Instruments: Embodying Prompts as Instruments to Abstract & Reflect Graphical Interface Commands as General-Purpose Tools",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714259"
+  },
+  {
+    "title": "ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713680"
+  },
+  {
+    "title": "Accompany Sleep: Using GenAI to Create Bedtime Stories for Mediating Parent-Child Relationships in LBC Families",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713192"
+  },
+  {
+    "title": "Accurate Insights, Trustworthy Interactions: Designing a Collaborative AI-Human Multi-Agent System with Knowledge Graph for Diagnosis Prediction",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713526"
+  },
+  {
+    "title": "AdaptiveSliders: User-aligned Semantic Slider-based Editing of Text-to-Image Model Output",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714292"
+  },
+  {
+    "title": "AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713953"
+  },
+  {
+    "title": "Amuse: Human-AI Collaborative Songwriting with Multimodal Inspirations",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713818"
+  },
+  {
+    "title": "AppAgent: Multimodal Agents as Smartphone Users",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713600"
+  },
+  {
+    "title": "Are We On Track? AI-Assisted Active and Passive Goal Reflection During Meetings",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714052"
+  },
+  {
+    "title": "ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713274"
+  },
+  {
+    "title": "Artificial Intimacy: Exploring Normativity and Personalization Through Fine-tuning LLM Chatbots",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713728"
+  },
+  {
+    "title": "Assistance or Disruption? Exploring and Evaluating the Design and Trade-offs of Proactive AI Programming Support",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713357"
+  },
+  {
+    "title": "AutoPBL: An LLM-powered Platform to Guide and Support Individual Learners Through Self Project-based Learning",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714261"
+  },
+  {
+    "title": "Autoethnographic Insights from Neurodivergent GAI “Power Users”",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713670"
+  },
+  {
+    "title": "BIASsist: Empowering News Readers via Bias Identification, Explanation, and Neutralization",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713531"
+  },
+  {
+    "title": "Beyond Code Generation: LLM-supported Exploration of the Program Design Space",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714154"
+  },
+  {
+    "title": "Beyond the Dialogue: Multi-chatbot Group Motivational Interviewing for Premenstrual Syndrome (PMS) Management",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713918"
+  },
+  {
+    "title": "BioSpark: Beyond Analogical Inspiration to LLM-augmented Transfer",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714053"
+  },
+  {
+    "title": "BleacherBot: AI Agent as a Sports Co-Viewing Partner",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714178"
+  },
+  {
+    "title": "Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713853"
+  },
+  {
+    "title": "BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714212"
+  },
+  {
+    "title": "Can AI Prompt Humans? Multimodal Agents Prompt Players? Game Actions and Show Consequences to Raise Sustainability Awareness",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713661"
+  },
+  {
+    "title": "Can AI writing be salvaged? Mitigating Idiosyncrasies and Improving Human-AI Alignment in the Writing Process through Edits",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713559"
+  },
+  {
+    "title": "Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713780"
+  },
+  {
+    "title": "Canvil: Designerly Adaptation for LLM-Powered User Experiences",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713139"
+  },
+  {
+    "title": "CardioAI: A Multimodal AI-based System to Support Symptom Monitoring and Risk Prediction of Cancer Treatment-Induced Cardiotoxicity",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714272"
+  },
+  {
+    "title": "ChainBuddy: An AI-assisted Agent System for Generating LLM Pipelines",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714085"
+  },
+  {
+    "title": "Challenging Futures: Using Chatbots to Reflect on Aging and Dementia",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713727"
+  },
+  {
+    "title": "Characterizing LLM-Empowered Personalized Story Reading and Interaction for Children: Insights From Multi-Stakeholder Perspectives",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713275"
+  },
+  {
+    "title": "Chartist: Task-driven Eye Movement Control for Chart Reading",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713128"
+  },
+  {
+    "title": "ChatHAP: A Chat-Based Haptic System for Designing Vibrations through Conversation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713441"
+  },
+  {
+    "title": "Chatbots for Data Collection in Surveys: A Comparison of Four Theory-Based Interview Probes",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714128"
+  },
+  {
+    "title": "Chorus of the Past: Toward Designing a Multi-agent Conversational Reminiscence System with Digital Artifacts for Older Adults",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713810"
+  },
+  {
+    "title": "Cinema Multiverse Lounge: Enhancing Film Appreciation via Multi-Agent Conversations",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713641"
+  },
+  {
+    "title": "Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713773"
+  },
+  {
+    "title": "Closing the Loop between User Stories and GUI Prototypes: An LLM-Based Assistant for Cross-Functional Integration in Software Development",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713932"
+  },
+  {
+    "title": "Co-designing Large Language Model Tools for Project-Based Learning with K12 Educators",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713971"
+  },
+  {
+    "title": "CoExploreDS: Framing and Advancing Collaborative Design Space Exploration Between Human and AI",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713869"
+  },
+  {
+    "title": "Comparing Native and Non-native English Speakers' Behaviors in Collaborative Writing through Visual Analytics",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713693"
+  },
+  {
+    "title": "Content-Driven Local Response: Supporting Sentence-Level and Message-Level Mobile Email Replies With and Without AI",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713890"
+  },
+  {
+    "title": "CreAItive Collaboration? Users' Misjudgment of AI-Creativity Affects Their Collaborative Performance",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713886"
+  },
+  {
+    "title": "Creative Blends of Visual Concepts",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713683"
+  },
+  {
+    "title": "Creative Writers' Attitudes on Writing as Training Data for Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713287"
+  },
+  {
+    "title": "Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713453"
+  },
+  {
+    "title": "D-Twins: Your Digital Twin Designed for Real-Time Boredom Intervention",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714163"
+  },
+  {
+    "title": "DBox: Scaffolding Algorithmic Programming Learning through Learner-LLM Co-Decomposition",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713748"
+  },
+  {
+    "title": "Dango: A Mixed-Initiative Data Wrangling System using Large Language Model",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714135"
+  },
+  {
+    "title": "Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713408"
+  },
+  {
+    "title": "Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714255"
+  },
+  {
+    "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714211"
+  },
+  {
+    "title": "Designing LLM-Powered Multimodal Instructions to Support Rich Hands-on Skills Remote Learning: A Case Study with Massage Instructors and Learners",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713677"
+  },
+  {
+    "title": "Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713310"
+  },
+  {
+    "title": "Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713744"
+  },
+  {
+    "title": "Do It For Me vs. Do It With Me: Investigating User Perceptions of Different Paradigms of Automation in Copilots for Feature-Rich Software",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713431"
+  },
+  {
+    "title": "DreamGarden: A Designer Assistant for Growing Games from a Single Prompt",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714233"
+  },
+  {
+    "title": "DynEx: Dynamic Code Synthesis with Structured Design Exploration for Accelerated Exploratory Programming",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714115"
+  },
+  {
+    "title": "ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713973"
+  },
+  {
+    "title": "Effects of LLM-based Search on Decision Making: Speed, Accuracy, and Overreliance",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714082"
+  },
+  {
+    "title": "Efficient Management of LLM-Based Coaching Agents' Reasoning While Maintaining Interaction Quality and Speed",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713606"
+  },
+  {
+    "title": "Emerging Data Practices: Data Work in the Era of Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714069"
+  },
+  {
+    "title": "End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713691"
+  },
+  {
+    "title": "Enhancing Deliberativeness: Evaluating the Impact of Multimodal Reflection Nudges",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714189"
+  },
+  {
+    "title": "EvAlignUX: Advancing UX Evaluation through LLM-Supported Metrics Exploration",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714045"
+  },
+  {
+    "title": "Evaluating Non-AI Experts' Interaction with AI: A Case Study In Library Context",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714219"
+  },
+  {
+    "title": "Everyday Uncertainty: How Blind People Use GenAI Tools for Information Access",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713433"
+  },
+  {
+    "title": "Examining Student and Teacher Perspectives on Undisclosed Use of Generative AI in Academic Work",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713393"
+  },
+  {
+    "title": "ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713883"
+  },
+  {
+    "title": "Exploring AI-Based Support in Speech-Language Pathology for Culturally and Linguistically Diverse Children",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714131"
+  },
+  {
+    "title": "Exploring Empty Spaces: Human-in-the-Loop Data Augmentation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713491"
+  },
+  {
+    "title": "Exploring LLM-Powered Role and Action-Switching Pedagogical Agents for History Education in Virtual Reality",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713109"
+  },
+  {
+    "title": "Exploring Mobile Touch Interaction with Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713554"
+  },
+  {
+    "title": "Exploring Modular Prompt Design for Emotion and Mental Health Recognition",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713888"
+  },
+  {
+    "title": "Exploring Multimodal Generative AI for Education through Co-design Workshops with Students",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714146"
+  },
+  {
+    "title": "Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713852"
+  },
+  {
+    "title": "Exploring the Design Space of Real-time LLM Knowledge Support Systems: A Case Study of Jargon Explanations",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714262"
+  },
+  {
+    "title": "Exploring the Design of LLM-based Agent in Enhancing Self-disclosure Among the Older Adults",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713639"
+  },
+  {
+    "title": "Exploring the Impact of Avatar Representations in AI Chatbot Tutors on Learning Experiences",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713456"
+  },
+  {
+    "title": "Exploring the Impact of Intervention Methods on Developers’ Security Behavior in a Manipulated ChatGPT Study",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713989"
+  },
+  {
+    "title": "EyeSee: Enhancing Art Appreciation through Anthropomorphic Interpretations from Multiple Perspectives",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714042"
+  },
+  {
+    "title": "Finding the Conversation: A Method for Scoring Documents for Natural Conversation Content",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714401"
+  },
+  {
+    "title": "Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714020"
+  },
+  {
+    "title": "Friction: Deciphering Writing Feedback into Writing Revisions through LLM-Assisted Reflection",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714316"
+  },
+  {
+    "title": "From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713840"
+  },
+  {
+    "title": "From Operation to Cognition: Automatic Modeling Cognitive Dependencies from User Demonstrations for GUI Task Automation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713356"
+  },
+  {
+    "title": "From Passive Watching to Active Learning: Empowering Proactive Participation in Digital Classrooms with AI Video Assistant",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713513"
+  },
+  {
+    "title": "From Text to Trust: Empowering AI-assisted Decision Making with Adaptive LLM-powered Analysis",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713133"
+  },
+  {
+    "title": "From Words to Wonder: Designing and Evaluating an AI-Empowered Creative Storytelling System for Elementary Children",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713478"
+  },
+  {
+    "title": "GPTCoach: Towards LLM-Based Physical Activity Coaching",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713819"
+  },
+  {
+    "title": "GazeNoter: Co-Piloted AR Note-Taking via Gaze Selection of LLM Suggestions to Match Users' Intentions",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714294"
+  },
+  {
+    "title": "GenComUI: Exploring Generative Visual Aids as Medium to Support Task-Oriented Human-Robot Communication",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714238"
+  },
+  {
+    "title": "GenPara: Enhancing the 3D Design Editing Process by Inferring Users' Regions of Interest with Text-Conditional Shape Parameters",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713502"
+  },
+  {
+    "title": "Generative AI Uses and Risks for Knowledge Workers in a Science Organization",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713827"
+  },
+  {
+    "title": "Generative AI and News Consumption: Design Fictions and Critical Analysis",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713804"
+  },
+  {
+    "title": "Generative AI and Perceptual Harms: Who's Suspected of using LLMs?",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713897"
+  },
+  {
+    "title": "Generative AI in Knowledge Work: Design Implications for Data Navigation and Decision-Making",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713337"
+  },
+  {
+    "title": "Generative Role-Play Communication Training in Virtual Reality for Autistic Individuals: A Study on Job Coach Experiences in Vocational Training Programs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713507"
+  },
+  {
+    "title": "GeneyMAP: Exploring the Potential of GenAI to Facilitate Mapping User Journeys for UX Design",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713479"
+  },
+  {
+    "title": "GenieWizard: Multimodal App Feature Discovery with Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714327"
+  },
+  {
+    "title": "Gesture and Audio-Haptic Guidance Techniques to Direct Conversations with Intelligent Voice Interfaces",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714310"
+  },
+  {
+    "title": "GistVis: Automatic Generation of Word-scale Visualizations from Data-rich Documents",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713881"
+  },
+  {
+    "title": "How CO2STLY Is CHI? The Carbon Footprint of Generative AI in HCI Research and What We Should Do About It",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714227"
+  },
+  {
+    "title": "How Do Hackathons Foster Creativity? Towards Automated Evaluation of Creativity at Scale",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713447"
+  },
+  {
+    "title": "How Humans Communicate Programming Tasks in Natural Language and Implications For End-User Programming with LLMs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713271"
+  },
+  {
+    "title": "How Scientists Use Large Language Models to Program",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713668"
+  },
+  {
+    "title": "How the Role of Generative AI Shapes Perceptions of Value in Human-AI Collaborative Work",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713946"
+  },
+  {
+    "title": "Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714198"
+  },
+  {
+    "title": "I-Card: A Generative AI-Supported Intelligent Design Method Card Deck",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713934"
+  },
+  {
+    "title": "IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714057"
+  },
+  {
+    "title": "IdeationWeb: Tracking the Evolution of Design Ideas in Human-AI Co-Creation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713375"
+  },
+  {
+    "title": "Initiating the Global AI Dialogues: Laypeople Perspectives on the Future Role of genAI in Society from Nigeria, Germany and Japan",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714322"
+  },
+  {
+    "title": "InstructPipe: Generating Visual Blocks Pipelines with Human Instructions and LLMs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713905"
+  },
+  {
+    "title": "Intent Tagging: Exploring Micro-Prompting Interactions for Supporting Granular Human-GenAI Co-Creation Workflows",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713861"
+  },
+  {
+    "title": "Inter(sectional) Alia(s): Ambiguity in Voice Agent Identity via Intersectional Japanese Self-Referents",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713323"
+  },
+  {
+    "title": "Interactive Debugging and Steering of Multi-Agent AI Systems",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713581"
+  },
+  {
+    "title": "Into the Unknown: Leveraging Conversational AI in Supporting Young Migrants' Journeys Towards Cultural Adaptation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713091"
+  },
+  {
+    "title": "Investigating Context-Aware Collaborative Text Entry on Smartphones using Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713944"
+  },
+  {
+    "title": "Investigating How Computer Science Researchers Design Their Co-Writing Experiences With AI",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713205"
+  },
+  {
+    "title": "Investigating LLM-Driven Curiosity in Human-Robot Interaction",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713923"
+  },
+  {
+    "title": "JournalAIde: Empowering Older Adults in Digital Journal Writing",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713339"
+  },
+  {
+    "title": "Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713913"
+  },
+  {
+    "title": "LADICA: A Large Shared Display Interface for Generative AI Cognitive Assistance in Co-located Team Collaboration",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713289"
+  },
+  {
+    "title": "LLM Integration in Extended Reality: A Comprehensive Review of Current Trends, Challenges, and Future Perspectives",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714224"
+  },
+  {
+    "title": "LLM Powered Text Entry Decoding and Flexible Typing on Smartphones",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714314"
+  },
+  {
+    "title": "LLM Whisperer: An Inconspicuous Attack to Bias LLM Responses",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714025"
+  },
+  {
+    "title": "Large Language Models in Qualitative Research: Uses, Tensions, and Intentions",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713120"
+  },
+  {
+    "title": "Letters from Future Self: Augmenting the Letter-Exchange Exercise with LLM-based Agents to Enhance Young Adults' Career Exploration",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714206"
+  },
+  {
+    "title": "Leveraging AI-Generated Emotional Self-Voice to Nudge People towards their Ideal Selves",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713359"
+  },
+  {
+    "title": "Leveraging Multimodal LLM for Inspirational User Interface Search",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714213"
+  },
+  {
+    "title": "LitLinker: Supporting the Ideation of Interdisciplinary Contexts with Large Language Models for Teaching Literature in Elementary Schools",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714111"
+  },
+  {
+    "title": "Living Alongside Areca: Exploring Human Experiences with Things Expressing Thoughts and Emotions",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713228"
+  },
+  {
+    "title": "LogoMotion: Visually-Grounded Code Synthesis for Creating and Editing Animation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714155"
+  },
+  {
+    "title": "Lost in Moderation: How Commercial Content Moderation APIs Over- and Under-Moderate Group-Targeted Hate Speech and Linguistic Variations",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713998"
+  },
+  {
+    "title": "LumaDreams: Designing Positive Dream Meaning-Making for Daily Empowerment",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713495"
+  },
+  {
+    "title": "MVPrompt: Building Music-Visual Prompts for AI Artists to Craft Music Video Mise-en-sc?ne",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713876"
+  },
+  {
+    "title": "Media Bias Detector: Designing and Implementing a Tool for Real-Time Selection and Framing Bias Analysis in News Coverage",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713716"
+  },
+  {
+    "title": "Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713952"
+  },
+  {
+    "title": "Micro-narratives: A Scalable Method for Eliciting Stories of People’s Lived Experience",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713999"
+  },
+  {
+    "title": "Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713201"
+  },
+  {
+    "title": "More Attention, Transformation, Acceleration, and Exploration: Freelance Developers' Take on Hypes",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713097"
+  },
+  {
+    "title": "Need Help? Designing Proactive AI Assistants for Programming",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714002"
+  },
+  {
+    "title": "No Evidence for LLMs Being Useful in Problem Reframing",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713273"
+  },
+  {
+    "title": "Noel: A Chatbot Persona to Support Children Designing for Others",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713836"
+  },
+  {
+    "title": "OSINT Clinic: Co-designing AI-Augmented Collaborative OSINT Investigations for Vulnerability Assessment",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713283"
+  },
+  {
+    "title": "Objection Overruled! Lay People can Distinguish Large Language Models from Lawyers, but still Favour Advice from an LLM",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713470"
+  },
+  {
+    "title": "OmniQuery: Contextually Augmenting Captured Multimodal Memories to Enable Personal Question Answering",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713448"
+  },
+  {
+    "title": "Ontologies in Design: How Imagining a Tree Reveals Possibilities and Assumptions in Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713633"
+  },
+  {
+    "title": "PAIGE: Examining Learning Outcomes and Experiences with Personalized AI-Generated Educational Podcasts",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713460"
+  },
+  {
+    "title": "PLAID: Supporting Computing Instructors to Identify Domain-Specific Programming Plans at Scale",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713832"
+  },
+  {
+    "title": "Persona-L has Entered the Chat: Leveraging LLMs and Ability-based Framework for Personas of People with Complex Needs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713445"
+  },
+  {
+    "title": "Persuasion in Pixels and Prose: The Effects of Emotional Language and Visuals in Agent Conversations on Decision-Making",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713579"
+  },
+  {
+    "title": "Piecing Together Teamwork: A Responsible Approach to an LLM-based Educational Jigsaw Agent",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713349"
+  },
+  {
+    "title": "Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713218"
+  },
+  {
+    "title": "PlanTogether: Facilitating AI Application Planning Using Information Graphs and Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714044"
+  },
+  {
+    "title": "Playing Dumb to Get Smart: Creating and Evaluating an LLM-based Teachable Agent within University Computer Science Classes",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713644"
+  },
+  {
+    "title": "Plume: Scaffolding Text Composition in Dashboards",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713580"
+  },
+  {
+    "title": "Plurals: A System for Guiding LLMs via Simulated Social Ensembles",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713675"
+  },
+  {
+    "title": "PrivCAPTCHA: Interactive CAPTCHA to Facilitate Effective Comprehension of APP Privacy Policy",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713928"
+  },
+  {
+    "title": "Privacy Perceptions of Custom GPTs by Users and Creators",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713540"
+  },
+  {
+    "title": "Private Yet Social: How LLM Chatbots Support and Challenge Eating Disorder Recovery",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713485"
+  },
+  {
+    "title": "ProductMeta: An Interactive System for Metaphorical Product Design Ideation with Multimodal Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713935"
+  },
+  {
+    "title": "Productive vs. Reflective: How Different Ways of Integrating AI into Design Workflows Affect Cognition and Motivation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713649"
+  },
+  {
+    "title": "Promoting Cognitive Health in Elder Care with Large Language Model-Powered Socially Assistive Robots",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713582"
+  },
+  {
+    "title": "PromptHive: Bringing Subject Matter Experts Back to the Forefront with Collaborative Prompt Engineering for Educational Content Creation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714051"
+  },
+  {
+    "title": "Prompting in the Dark: Assessing Human Performance in Prompt Engineering for Data Labeling When Gold Labels Are Absent",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714319"
+  },
+  {
+    "title": "Prototyping with Prompts: Emerging Approaches and Challenges in Generative AI Design for Collaborative Software Teams",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713166"
+  },
+  {
+    "title": "Proxona: Supporting Creators' Sensemaking and Ideation with LLM-Powered Audience Personas",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714034"
+  },
+  {
+    "title": "Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713338"
+  },
+  {
+    "title": "Raising Awareness of Location Information Vulnerabilities in Social Media Photos using LLMs",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714074"
+  },
+  {
+    "title": "Reimagining Personal Data: Unlocking the Potential of AI-Generated Images in Personal Data Meaning-Making",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713722"
+  },
+  {
+    "title": "Reimagining Support: Exploring Autistic Individuals' Visions for AI in Coping with Negative Self-Talk",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714287"
+  },
+  {
+    "title": "Relational AI: Facilitating Intergroup Cooperation with Socially Aware Conversational Support",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713757"
+  },
+  {
+    "title": "RemiHaven: Integrating \"In-Town\" and \"Out-of-Town\" Peers to Provide Personalized Reminiscence Support for Older Drifters",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714277"
+  },
+  {
+    "title": "Rescriber: Smaller-LLM-Powered User-Led Data Minimization for LLM-Based Chatbots",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713701"
+  },
+  {
+    "title": "Robots, Chatbots, Self-Driving Cars: Perceptions of Mind and Morality Across Artificial Intelligences",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713130"
+  },
+  {
+    "title": "SET-PAiREd: Designing for Parental Involvement in Learning with an AI-Assisted Educational Robot",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713330"
+  },
+  {
+    "title": "Satori 悟り: Towards Proactive AR Assistant with Belief-Desire-Intention User Modeling",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714188"
+  },
+  {
+    "title": "Scaffolded Turns and Logical Conversations: Designing Humanized LLM-Powered Conversational Agents for Hospital Admission Interviews",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714196"
+  },
+  {
+    "title": "Scaffolding Empathy: Training Counselors with Simulated Patients and Utterance-level Performance Visualizations",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714014"
+  },
+  {
+    "title": "ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713797"
+  },
+  {
+    "title": "Script&Shift: A Layered Interface Paradigm for Integrating Content Development and Rhetorical Strategy with LLM Writing Assistants",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714119"
+  },
+  {
+    "title": "Seeking Inspiration through Human-LLM Interaction",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713259"
+  },
+  {
+    "title": "Selective Trust: Understanding Human-AI Partnerships in Personal Health Decision-Making Process",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713462"
+  },
+  {
+    "title": "Show Me the Work: Fact-Checkers' Requirements for Explainable Automated Fact-Checking",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713277"
+  },
+  {
+    "title": "Simulacrum of Stories: Examining Large Language Models as Qualitative Research Participants",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713220"
+  },
+  {
+    "title": "Since U Been Gone: Augmenting Context-Aware Transcriptions for Re-Engaging in Immersive VR Meetings",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714078"
+  },
+  {
+    "title": "Small, Medium, Large? A Meta-Study of Effect Sizes at CHI to Aid Interpretation of Effect Sizes and Power Calculation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713671"
+  },
+  {
+    "title": "Social Simulation for Everyday Self-Care: Design Insights from Leveraging VR, AR, and LLMs for Practicing Stress Relief",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713115"
+  },
+  {
+    "title": "Social-RAG: Retrieving from Group Interactions to Socially Ground AI Generation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713749"
+  },
+  {
+    "title": "Sonora: Human-AI Co-Creation of 3D Audio Worlds and its Impact on Anxiety and Cognitive Load",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713316"
+  },
+  {
+    "title": "SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713190"
+  },
+  {
+    "title": "Sustaining Human Agency, Attending to Its Cost: An Investigation into Generative AI Design for Non-Native Speakers' Language Use",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713626"
+  },
+  {
+    "title": "TableNarrator: Making Image Tables Accessible to Blind and Low Vision People",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714329"
+  },
+  {
+    "title": "Talk to the Hand: an LLM-powered Chatbot with Visual Pointer as Proactive Companion for On-Screen Tasks",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3715579"
+  },
+  {
+    "title": "Tap&Say: Touch Location-Informed Large Language Model for Multimodal Text Correction on Smartphones",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713376"
+  },
+  {
+    "title": "TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714054"
+  },
+  {
+    "title": "TeamVision: An AI-powered Learning Analytics System for Supporting Reflection in Team-based Healthcare Simulation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713395"
+  },
+  {
+    "title": "Textoshop: Interactions Inspired by Drawing Software to Facilitate Text Editing",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713862"
+  },
+  {
+    "title": "The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714008"
+  },
+  {
+    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713778"
+  },
+  {
+    "title": "The Interaction Layer: An Exploration for Co-Designing User-LLM Interactions in Parental Wellbeing Support Systems",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714088"
+  },
+  {
+    "title": "The Last JITAI? Exploring Large Language Models for Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713307"
+  },
+  {
+    "title": "The News Says, the Bot Says: How Immigrants and Locals Differ in Chatbot-Facilitated News Reading",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714050"
+  },
+  {
+    "title": "The Sky is the Limit: Understanding How Generative AI can Enhance Screen Reader Users' Experience with Productivity Applications",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713634"
+  },
+  {
+    "title": "Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713181"
+  },
+  {
+    "title": "Timing Matters: How Using LLMs at Different Timings Influences Writers' Perceptions and Ideation Outcomes in AI-Assisted Ideation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713146"
+  },
+  {
+    "title": "To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714097"
+  },
+  {
+    "title": "Toward Affective Empathy via Personalized Analogy Generation: A Case Study on Microaggression",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714122"
+  },
+  {
+    "title": "Toward Enabling Natural Conversation with Older Adults via the Design of LLM-Powered Voice Agents that Support Interruptions and Backchannels",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714228"
+  },
+  {
+    "title": "Toward Personalizable AI Node Graph Creative Writing Support: Insights on Preferences for Generative AI Features and Information Presentation Across Story Writing Processes",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713569"
+  },
+  {
+    "title": "Towards AI-driven Sign Language Generation with Non-manual Markers",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713855"
+  },
+  {
+    "title": "Towards Dialogic and On-Demand Metaphors for Interdisciplinary Reading",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713698"
+  },
+  {
+    "title": "Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713423"
+  },
+  {
+    "title": "Toyteller: AI-powered Visual Storytelling Through Toy-Playing with Character Symbols",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713435"
+  },
+  {
+    "title": "TutorCraftEase: Enhancing Pedagogical Question Creation with Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713731"
+  },
+  {
+    "title": "TutorUp: What If Your Students Were Simulated? Training Tutors to Address Engagement Challenges in Online Learning",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713589"
+  },
+  {
+    "title": "Understanding Attitudes and Trust of Generative AI Chatbots for Social Anxiety Support",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714286"
+  },
+  {
+    "title": "Understanding How Psychological Distance Influences User Preferences in Conversational versus Web Search",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713770"
+  },
+  {
+    "title": "Understanding Public Agencies' Expectations and Realities of AI-Driven Chatbots for Public Health Monitoring",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713593"
+  },
+  {
+    "title": "Understanding and Supporting Formal Email Exchange by Answering AI-Generated Questions",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714016"
+  },
+  {
+    "title": "Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Systematic Literature Review",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713726"
+  },
+  {
+    "title": "Unknown Word Detection for English as a Second Language (ESL) Learners using Gaze and Pre-trained Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714181"
+  },
+  {
+    "title": "Unlocking Scientific Concepts: How Effective Are LLM-Generated Analogies for Student Understanding and Classroom Practice?",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714313"
+  },
+  {
+    "title": "Unlocking the Power of Speech: Game-Based Accent and Oral Communication Training for Immigrant English Language Learners via Large Language Models",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713945"
+  },
+  {
+    "title": "Unpacking Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713787"
+  },
+  {
+    "title": "User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713347"
+  },
+  {
+    "title": "User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713477"
+  },
+  {
+    "title": "VeriPlan: Integrating Formal Verification and LLMs into End-User Planning",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714113"
+  },
+  {
+    "title": "VidSTR: Automatic Spatiotemporal Retargeting of Speech-Driven Video Compositions",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713857"
+  },
+  {
+    "title": "VideoA11y: Method and Dataset for Accessible Video Description",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714096"
+  },
+  {
+    "title": "VideoDiff: Human-AI Video Co-Creation with Alternatives",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713417"
+  },
+  {
+    "title": "Voice Assistants for Health Self-Management: Designing for and with Older Adults",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713839"
+  },
+  {
+    "title": "What If Smart Homes Could See Our Homes?: Exploring DIY Smart Home Building Experiences with VLM-Based Camera Sensors",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713265"
+  },
+  {
+    "title": "What Social Media Use Do People Regret? An Analysis of 34K Smartphone Screenshots with Multimodal LLM",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713724"
+  },
+  {
+    "title": "WhatELSE: Shaping Narrative Spaces at Configurable Level of Abstraction for AI-bridged Interactive Storytelling",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713363"
+  },
+  {
+    "title": "Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713522"
+  },
+  {
+    "title": "Why So Serious? Exploring Timely Humorous Comments in AAC Through AI-Powered Interfaces",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3714102"
+  },
+  {
+    "title": "eaSEL: Promoting Social-Emotional Learning and Parent-Child Interaction through AI-Mediated Content Consumption",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/10.1145/3706598.3713405"
   }
 ]
