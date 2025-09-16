@@ -18,9 +18,9 @@
       const thead = `
         <thead>
           <tr>
-            <th class="num">number</th>
-            <th>title</th>
-            <th class="yr">year</th>
+            <th class="num">Number</th>
+            <th>Title</th>
+            <th class="yr">Year</th>
           </tr>
         </thead>`;
       const rows = sorted.map((p, i) => `
